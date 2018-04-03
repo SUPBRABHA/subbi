@@ -7,13 +7,13 @@ void main()
   int c=6;
   if(a>b&&a>c)
   {
-  printf("4");
+  printf("a");
   }
   else if(b>a&&b>c)
   {
-    printf("5");
+    printf("b");
   }
   else
-    printf("6");
+    printf("c");
   getch();
 }
